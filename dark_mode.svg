@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="975px" height="410px" font-size="16px">
+<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="975px" height="390px" font-size="16px">
 <style>
 .keyColor {fill: #FA8072;}
 .valueColor {fill: #a5d6ff;}
@@ -26,7 +26,6 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="310"> +@@@@*:        %@@@@*           </tspan>
 <tspan x="15" y="330"> +@@@@=         :#@@@%##-        </tspan>
 <tspan x="15" y="350"> :=++-           -#@@@@@%+       </tspan>
-<tspan x="15" y="370">                   -----         </tspan>
 </text>
 
 <text x="370" y="30" fill="#c9d1d9">
@@ -44,7 +43,6 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="310" class="keyColor">Email</tspan>: <tspan class="valueColor">miraybatki01@gmail.com</tspan>
 <tspan x="370" y="330" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">miraybatki</tspan>
 <tspan x="370" y="350" class="keyColor">Instagram</tspan>: <tspan class="valueColor">miraybatki</tspan>
-<tspan x="370" y="370" class="keyColor">Discord</tspan>: <tspan class="valueColor">miraybatki</tspan>
 </text>
 
 </svg>
