@@ -23,5 +23,5 @@ def svg_overwrite(filename, age_data):
 if __name__ == '__main__':
 
     # SVG generation (for both dark and light mode)
-    svg_overwrite('dark_mode.svg', age_data)
-    svg_overwrite('light_mode.svg', age_data)
+    svg_overwrite('dark_mode.svg')
+    svg_overwrite('light_mode.svg')
