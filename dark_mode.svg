@@ -41,7 +41,7 @@ text, tspan {white-space: pre;}
 <text x="370" y="30" fill="#c9d1d9">
 <tspan x="370" y="30">miray@batki</tspan>
 <tspan x="370" y="50">——————</tspan>
-<tspan x="370" y="70" class="keyColor">Name</tspan>.<tspan class="keyColor">Surname</tspan>: <tspan class="valueColor">Miray Batkı</tspan>
+<tspan x="370" y="70" class="keyColor">Name</tspan>.<tspan class="keyColor">Surname</tspan>: <tspan class="valueColor">Miray Batki</tspan>
 <tspan x="370" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">16 years</tspan>
 <tspan x="370" y="110" class="keyColor">Education</tspan>: <tspan class="valueColor">High School</tspan>
 <tspan x="370" y="150" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Java, Python, JavaScript, React, Vue, MATLAB</tspan>
