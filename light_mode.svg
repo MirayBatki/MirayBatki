@@ -34,7 +34,7 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="70" class="keyColor">Name</tspan>.<tspan class="keyColor">Surname</tspan>: <tspan class="valueColor">Miray Batkı</tspan>
 <tspan x="370" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">16 years</tspan>
 <tspan x="370" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">High School</tspan>
-<tspan x="370" y="150" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Java, Python, JavaScript, Next, Vue, MATLAB</tspan>
+<tspan x="370" y="150" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Java, JavaScript, Next, Vue, MATLAB</tspan>
 <tspan x="370" y="170" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, JSON</tspan>
 <tspan x="370" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">Turkish, English</tspan>
 <tspan x="370" y="230" class="keyColor">FRC</tspan>.<tspan class="keyColor">Team</tspan>: <tspan class="valueColor">#9483 Istanbul Wildcats</tspan>
